@@ -20,3 +20,5 @@ Image rotation
 Flip
 
 Grayscale
+
+Image Segmentation
